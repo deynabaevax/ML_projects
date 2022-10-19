@@ -1,3 +1,3 @@
-# ML_projects
+# Machine Learning Repo
 
 A repository containing practice Machine Learning models.
