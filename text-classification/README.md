@@ -14,10 +14,6 @@ Below, you can take a look at the project timeline.
 
 <img width="600px" src="https://user-images.githubusercontent.com/64732465/201093466-abb31ee2-51d6-4966-9976-fd2fe606d0c6.jpg">
 
-# View of the app
-
-<img width="700px" src="https://user-images.githubusercontent.com/64732465/201096010-f19b93bb-aadf-4d6a-9f38-5149ce478fef.png">
-
 # Steps
 
     1. Get to know BERT
@@ -28,3 +24,7 @@ Below, you can take a look at the project timeline.
     6. Training the Model
     7. Make Predictions
     8. Conclusion
+
+# View of the app
+
+<img width="700px" src="https://user-images.githubusercontent.com/64732465/201096010-f19b93bb-aadf-4d6a-9f38-5149ce478fef.png">
