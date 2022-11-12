@@ -17,13 +17,28 @@ The goal of the agent is to maximize the sum of the rewards during an episode. I
 
 I will implement one of my favourite childhood games "the snake game". The goal is to grab as many apples as possible while not walking into a wall or the snake’s body. 
 
-# Resuts
+# Set-up
+
+For this assignment I used VS Code as IDE. I installed **pygame**, which is a Python package for writing games.
+
+# Observations
+- Snake Played by the Agent
+  It was very interesting to look at the agent learning to play the game. At first the agent had no clue what was happening and was going around the environment. It took more than 100 plays to get a "more satisfying" score of 30.
+
+# Results
+
 Below, a screenshot of how the training after few iterations looks like is provided.
 
 ![game-90](https://user-images.githubusercontent.com/64732465/196701290-408cd3db-40e0-4a38-830a-90d9d9a3ef18.png)
 
+After training for some time, during the 251st game the record score increased to 68.
+<img src="https://user-images.githubusercontent.com/64732465/201484835-b1b0955b-2ef4-443d-b1a5-90bcd9247dec.gif">
 
-After training for some time, during the 271st game the record score increased to 67.
 
-![271](https://user-images.githubusercontent.com/64732465/196701761-d89765f2-250a-43aa-8dd4-cba473dfda4d.png)
+After training the agent for more than 469 games, the record was 90.
+<img src="https://user-images.githubusercontent.com/64732465/201484770-185c89cd-6ed2-4ade-aa69-eaeca66ec482.gif">
+
+# Conclusion
+
+Reinforcement Learning is a very interesting part of AI because instead of using supervised or unsupervised learning to learn, it does this by being in a dynamic environment which is based on rewards and punishments. With this exercise, I was able to create a snake game, which was trained to obtain satisfying results in the end.
 
